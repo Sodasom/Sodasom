@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 ### 🧚🏻‍♀️ Blog
 <div style="display:flex; flex-direction:row;">
   <a href="https://fairyworld-som.tistory.com/">
-    <img src="https://img.shields.io/badge/요정세상코딩다솜-9ACD32?style=for-the-badge&logo=tistory&logoColor=white">
+    <img src="https://img.shields.io/badge/요정세상코딩다솜-FFC0CB?style=for-the-badge&logo=tistory&logoColor=white">
   </a>
   <a href="https://booming-tarantula-8fd.notion.site/Som-s-Study-Note-5d2ad48d07c9477f958d9bff69572ea1">
-    <img src="https://img.shields.io/badge/Som's Study Note-ADD8E6?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Som's Study Note-FFC0CB?style=for-the-badge&logo=notion&logoColor=white">
   </a>
 </div>
