@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome,%20My%20Github%20🩷&fontColor=FFC0CB&fontSize=60&fontAlign=37&animation=twinkling)
 
-<img
-  style="width: inherit;"
-  src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{{ page.url }}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
-  alt="hit count image"
-/>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sodasom&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&count_private=true" />
 </a>
